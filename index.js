@@ -18,7 +18,7 @@ const configuration = new Configuration({
     organization: "org-kEwgv19yejikr6in1u9L89AO",
     
     //My current OpenAI key is placed here
-    apiKey: "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",
+    apiKey: "",
 });
 const openai = new OpenAIApi(configuration);
 
