@@ -5,7 +5,7 @@ import "../styles/Breweries.css"
 function Breweries() {
   var script;
   useEffect(() => {
-    const apiKey = 'AIzaSyADKaoEzHMnfsAqSyxr5XxuNDjjNCB5CQ8';
+    const apiKey = '';
 
     if( script !== undefined)
       return;
